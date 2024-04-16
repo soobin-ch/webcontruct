@@ -1,0 +1,11 @@
+table, thead, tbody{
+    border: 1px solid black;
+    width: 600px;
+    height: 50px;
+} 
+
+th,td {
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+}
